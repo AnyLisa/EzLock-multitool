@@ -1,4 +1,6 @@
 # EzLock — Multitool
+This tool was designed for pen-testing and general testing. Many of it's current features
+are Work In Progress (WIP).
 
 ## Features  
 - Networking:
