@@ -1,13 +1,24 @@
 # EzLock — Multitool
 
-## Features
-- File utilities: read/write, copy, cleanup, search  
-- Networking: simple ping, HTTP checks, port scanners  
-- Crypto helpers: generate hashes, simple enc/dec routines  
-- CLI-friendly: works directly from terminal  
-- Modular design: import only what you need  
-- Easy to extend with your own functions
-
-## Installation
-```bash
-pip install ezlock
+## Features  
+- Networking:
+  - IP Scanner
+  - IP Port Scanner
+  - IP Pinger
+- Utilities:
+  - Virus Builder (PLEASE DO NOT USE THIS FOR ACTUAL SPREADING OR MISSUSE. ANY DAMAGE MADE WILL NOT LAND ON ME.)
+- OSINT:
+  - Username finder - WIP
+  - Gmail finder - WIP
+  - Whois domain - WIP
+  - IP-Geo - WIP
+  - URL-Scan - WIP
+- System commands:
+  - Next page
+  - Restart
+  - Exit
+  - Help
+  - Logout
+  - Check subscription
+  - Rezise the squished text
+- CLI-friendly: works directly from terminal
