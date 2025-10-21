@@ -26,6 +26,11 @@ are Work In Progress (WIP).
 - CLI-friendly: works directly from terminal
 
 ## Donation
-[![Donate BTC](https://img.shields.io/badge/Donate-BTC-orange?logo=bitcoin&style=flat-square)](bitcoin:bc1q82pa5caj4m7s94qtu2y62kwjsfs29hxlgtle5q)
-[![Donate ETH](https://img.shields.io/badge/Donate-ETH-6366F1?logo=ethereum&style=flat-square)](ethereum:0x063657Dac9F65a7Cb8202B6c824512ec805C6Dc7)
-[![Donate LTC](https://img.shields.io/badge/Donate-LTC-345D9D?logo=litecoin&style=flat-square)](litecoin:LN1xv8fLwmX5SaH8RLTpqfDWr5C3xQXiVc)
+[![Donate BTC](https://img.shields.io/badge/Donate-BTC-orange?logo=bitcoin&style=flat-square)](#btc)
+Bitcoin: bc1q82pa5caj4m7s94qtu2y62kwjsfs29hxlgtle5q
+
+[![Donate ETH](https://img.shields.io/badge/Donate-ETH-6366F1?logo=ethereum&style=flat-square)](#eth)
+Ethereum: 0x063657Dac9F65a7Cb8202B6c824512ec805C6Dc7
+
+[![Donate LTC](https://img.shields.io/badge/Donate-LTC-345D9D?logo=litecoin&style=flat-square)](#ltc)
+Litecoin: LN1xv8fLwmX5SaH8RLTpqfDWr5C3xQXiVc
