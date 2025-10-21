@@ -25,7 +25,7 @@ are Work In Progress (WIP).
   - Rezise the squished text
 - CLI-friendly: works directly from terminal
 
-# DONATION
-[![Donate BTC](https://img.shields.io/badge/Donate-BTC-orange?logo=bitcoin&style=flat-square)](bitcoin:bc1YOURADDRESS)
-[![Donate ETH](https://img.shields.io/badge/Donate-ETH-6366F1?logo=ethereum&style=flat-square)](ethereum:0xYOURADDRESS)
-[![Donate LTC](https://img.shields.io/badge/Donate-LTC-345D9D?logo=litecoin&style=flat-square)](litecoin:ltc1YOURADDRESS)
+## Donation
+[![Donate BTC](https://img.shields.io/badge/Donate-BTC-orange?logo=bitcoin&style=flat-square)](bitcoin:bc1q82pa5caj4m7s94qtu2y62kwjsfs29hxlgtle5q)
+[![Donate ETH](https://img.shields.io/badge/Donate-ETH-6366F1?logo=ethereum&style=flat-square)](ethereum:0x063657Dac9F65a7Cb8202B6c824512ec805C6Dc7)
+[![Donate LTC](https://img.shields.io/badge/Donate-LTC-345D9D?logo=litecoin&style=flat-square)](litecoin:LN1xv8fLwmX5SaH8RLTpqfDWr5C3xQXiVc)
