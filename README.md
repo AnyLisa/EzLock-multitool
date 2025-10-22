@@ -8,8 +8,7 @@ are Work In Progress (WIP).
   - IP Port Scanner - Free
   - IP Pinger - Free (WIP)
 - Utilities:
-  - Virus Builder - Gold Tier (PLEASE DO NOT USE THIS FOR ACTUAL SPREADING OR MISSUSE. ANY DAMAGE MADE WILL NOT LAND ON ME.)
-  - RAT Builder - Platinum Tier (PLEASE DO NOT USE THIS FOR ACTUAL SPREADING OR MISSUSE. ANY DAMAGE MADE WILL NOT LAND ON ME.)
+  - Virus Builder - Platinum Tier (PLEASE DO NOT USE THIS FOR ACTUAL SPREADING OR MISSUSE. ANY DAMAGE MADE WILL NOT LAND ON ME.)
 - OSINT:
   - Username finder - Bronze (WIP)
   - Gmail finder - Bronze (WIP)
