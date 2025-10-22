@@ -16,6 +16,8 @@ are Work In Progress (WIP).
   - Gmail tracker - Bronze (WIP)
   - Whois domain - Free (WIP)
   - URL-Scan - Bronze (WIP)
+- Discord
+  - Webhook spammer
 - System commands:
   - Next page
   - Restart - WIP
@@ -24,9 +26,6 @@ are Work In Progress (WIP).
   - Logout
   - Check subscription
   - Rezise the squished text
-- Discord
-  - Webhook spammer
-- CLI-friendly: works directly from terminal
 
 ## Paying
 This tool will be paid, but by then I will have a lot more options, this is definitely not worth to sell and would be considered scamming, so for now, if you feel like it please donate to motivate me.
