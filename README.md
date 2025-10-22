@@ -29,10 +29,10 @@ are Work In Progress (WIP).
 ## Paying
 This tool will be paid, but by then I will have a lot more options, this is definitely not worth to sell and would be considered scamming, so for now, if you feel like it please donate to motivate me.
 
-Bronze - €2.30 a week or €10 a month
-Silver - €5.75 a week or €25 a month
-Gold - €9.20 a week or €40 a month
-Platinum - €14.95 a week or €65 a month
+- Bronze - €2.30 a week or €10 a month
+- Silver - €5.75 a week or €25 a month
+- Gold - €9.20 a week or €40 a month
+- Platinum - €14.95 a week or €65 a month
 
 Lifetime platinum will cost around €120-€200
 
