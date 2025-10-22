@@ -4,26 +4,34 @@ are Work In Progress (WIP).
 
 ## Features  
 - Networking:
-  - IP Scanner
-  - IP Port Scanner
-  - IP Pinger
+  - IP Scanner - Free
+  - IP Port Scanner - Free
+  - IP Pinger - Free (WIP)
 - Utilities:
-  - Virus Builder (PLEASE DO NOT USE THIS FOR ACTUAL SPREADING OR MISSUSE. ANY DAMAGE MADE WILL NOT LAND ON ME.)
+  - Virus Builder - Gold Tier (PLEASE DO NOT USE THIS FOR ACTUAL SPREADING OR MISSUSE. ANY DAMAGE MADE WILL NOT LAND ON ME.)
+  - RAT Builder - Platinum Tier (PLEASE DO NOT USE THIS FOR ACTUAL SPREADING OR MISSUSE. ANY DAMAGE MADE WILL NOT LAND ON ME.)
 - OSINT:
-  - Username finder - WIP
-  - Gmail finder - WIP
-  - Whois domain - WIP
-  - IP-Geo - WIP
-  - URL-Scan - WIP
+  - Username finder - Bronze (WIP)
+  - Gmail finder - Bronze (WIP)
+  - Gmail tracker - Bronze (WIP)
+  - Whois domain - Free (WIP)
+  - URL-Scan - Bronze (WIP)
 - System commands:
   - Next page
-  - Restart
+  - Restart - WIP
   - Exit
   - Help
   - Logout
   - Check subscription
   - Rezise the squished text
+- Discord
+  - Webhook spammer
 - CLI-friendly: works directly from terminal
+
+## Paying
+This tool will be paid, but by then I will have a lot more options, this is definitely not worth to sell and would be considered scamming, so for now, if you feel like it please donate to motivate me.
+
+Bronze - €2.30 a week or €10 a month
 
 ## Donation
 [![Donate BTC](https://img.shields.io/badge/Donate-BTC-orange?logo=bitcoin&style=flat-square)](#btc)
