@@ -16,7 +16,7 @@ are Work In Progress (WIP).
   - Whois domain - Free (WIP)
   - URL-Scan - Bronze (WIP)
 - Discord
-  - Webhook spammer
+  - Webhook spammer - Bronze
 - System commands:
   - Next page
   - Restart - WIP
