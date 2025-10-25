@@ -34,7 +34,7 @@ This tool will be paid, but by then I will have a lot more options, this is defi
 - Gold - €9.20 a week or €40 a month
 - Platinum - €14.95 a week or €65 a month
 
-Lifetime platinum will cost around €120-€200
+Lifetime platinum: €150
 
 ## Donation
 [![Donate BTC](https://img.shields.io/badge/Donate-BTC-orange?logo=bitcoin&style=flat-square)](#btc)
