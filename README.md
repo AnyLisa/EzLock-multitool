@@ -6,17 +6,20 @@ are Work In Progress (WIP).
 - Networking:
   - IP Scanner - Free
   - IP Port Scanner - Free
-  - IP Pinger - Free (WIP)
+  - IP Pinger - Free
 - Utilities:
-  - Virus Builder - Platinum Tier (PLEASE DO NOT USE THIS FOR ACTUAL SPREADING OR MISSUSE. ANY DAMAGE MADE WILL NOT LAND ON ME.)
+  - Vrus Builder - Platinum (PLEASE DO NOT USE THIS FOR ACTUAL SPREADING OR MISSUSE. ANY DAMAGE MADE WILL NOT LAND ON ME.)
 - OSINT:
-  - Username finder - Bronze (WIP)
-  - Gmail finder - Bronze (WIP)
-  - Gmail tracker - Bronze (WIP)
+  - Username finder - Free (WIP)
+  - Gmail finder - Free (WIP)
+  - Gmail tracker - Free (WIP)
   - Whois domain - Free (WIP)
-  - URL-Scan - Bronze (WIP)
+  - URL-Scan - Free (WIP)
 - Discord
-  - Webhook spammer - Bronze
+  - Webhook spammer - Free
+ 
+- Roblox
+  - Roblox Server IP Grabber - Gold
 - System commands:
   - Next page
   - Restart - WIP
@@ -29,10 +32,8 @@ are Work In Progress (WIP).
 ## Paying
 This tool will be paid, but by then I will have a lot more options, this is definitely not worth to sell and would be considered scamming, so for now, if you feel like it please donate to motivate me.
 
-- Bronze - €2.30 a week or €10 a month
-- Silver - €5.75 a week or €25 a month
-- Gold - €9.20 a week or €40 a month
-- Platinum - €14.95 a week or €65 a month
+- Gold - €14.99/Month or €37.99/Lifetime
+- Platinum - €29.99/Month or €99.99/Lifetime
 
 Lifetime platinum: €150
 
